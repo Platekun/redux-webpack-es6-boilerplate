@@ -1,8 +1,8 @@
 {
-  "name": "analitico",
-  "description": "Analitico frontend web application.",
+  "name": "react-boilerplate",
+  "description": "redux-webpack-es6-boilerplate",
   "version": "1.1.1",
-  "author": "Nativapps S.A.S",
+  "author": "Carlos Lobo",
   "license": "MIT",
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nativapps/AnaliticoFrontend.git"
+    "url": "https://github.com/Platekun/redux-webpack-es6-boilerplate"
   },
-  "bugs": "https://github.com/nativapps/AnaliticoFrontend.git",
+  "bugs": "https://github.com/Platekun/redux-webpack-es6-boilerplate",
   "scripts": {
     "clean:build": "rimraf build",
     "build:html": "node ./bin/buildHtml.js",
